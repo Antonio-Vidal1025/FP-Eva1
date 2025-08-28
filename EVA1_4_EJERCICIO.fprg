@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_4_EJERCICIO"/>
+        <attribute name="authors" value="igrid"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:53:36 p. m."/>
+        <attribute name="created" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA4LTI3OzA0OjM4OjM3IHAuIG0uOzI5NTk="/>
+        <attribute name="edited" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA4LTI3OzA0OjUzOjM2IHAuIG0uOzE7MzA2Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO: &quot;" newline="False"/>
+            <output expression="&quot;DESARROLLADOR DE MISCROSOFT&quot;" newline="True"/>
+            <output expression="&quot;SALARIO: &quot;" newline="False"/>
+            <output expression="&quot;500,000 D&#211;LARES AL A&#209;O&quot;" newline="True"/>
+            <output expression="&quot;HORAS SEMANA: &quot;" newline="False"/>
+            <output expression="&quot;40 HORAS&quot;" newline="True"/>
+            <output expression="&quot;REQUIERE INGLES?: &quot;" newline="False"/>
+            <output expression="&quot;true&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
