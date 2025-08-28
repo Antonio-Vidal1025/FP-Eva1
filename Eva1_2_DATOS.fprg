@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Eva_2_"/>
+        <attribute name="authors" value="igrid"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:28:32 p. m."/>
+        <attribute name="created" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA4LTI2OzA0OjIyOjM4IHAuIG0uOzI5NTI="/>
+        <attribute name="edited" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA4LTI2OzA0OjI4OjMyIHAuIG0uOzE7MzA2MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;JOS&#201; ANTONIO VIDAL CANO&quot;" newline="True"/>
+            <output expression="7648208" newline="True"/>
+            <output expression="23.45" newline="True"/>
+            <output expression="&quot;true&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
