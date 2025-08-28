@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_"/>
+        <attribute name="authors" value="igrid"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:29:28 p. m."/>
+        <attribute name="created" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA4LTI3OzA0OjIzOjE2IHAuIG0uOzI5NTA="/>
+        <attribute name="edited" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA4LTI3OzA0OjI5OjI4IHAuIG0uOzE7MzA2Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE: &quot;" newline="False"/>
+            <output expression="&quot;JOS&#201; ANTONIO VIDAL CANO&quot;" newline="True"/>
+            <output expression="&quot;N&#218;MERO DE CONTROL: &quot;" newline="False"/>
+            <output expression="25550647" newline="True"/>
+            <output expression="&quot;EDAD: &quot;" newline="False"/>
+            <output expression="17" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
