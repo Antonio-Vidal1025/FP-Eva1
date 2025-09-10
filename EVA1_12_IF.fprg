@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_12_IF"/>
+        <attribute name="authors" value="igrid"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-08 04:23:45 p. m."/>
+        <attribute name="created" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA5LTA4OzA0OjE3OjI2IHAuIG0uOzI5NTQ="/>
+        <attribute name="edited" value="aWdyaWQ7QU5UT05JTy1WSURBTDsyMDI1LTA5LTA4OzA0OjIzOjQ1IHAuIG0uOzE7MzA2MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Califica" type="Integer" array="False" size=""/>
+            <output expression="&quot;Introduce la calificaci&#243;n&quot;" newline="True"/>
+            <input variable="Califica"/>
+            <if expression="Califica &gt;=70">
+                <then>
+                    <output expression="&quot;ACREDITASTE LA MATERIA&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;NO ACREDITASTE LA MATERIA&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
